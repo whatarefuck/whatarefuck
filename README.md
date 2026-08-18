@@ -16,7 +16,7 @@
 > Backend engineer на Python и Go. Последний год — AI-часть SaaS-продукта: LLM-интеграции, RAG, ML и ETL. Люблю доводить фичи до production и смотреть, что происходит с продуктом после релиза.
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Use_JSON_server_kitty.jpg" width="420" alt="Use JSON server kitty meme" />
+  <img src="https://i.programmerhumor.io/2025/11/775269eb8595f26f5fad44afd8b497e63c73f8389723e6fd2f7cd7766241b0a2.png" width="420" alt="If it works, don't touch it — programming meme" />
 </p>
 
 ## Stack
@@ -112,4 +112,4 @@ Backend для **Yappy** — социальной видеоплатформы: 
   <i>Production first. Metrics after release.</i>
 </p>
 
-<sub>Cat meme: “Use JSON server kitty”, Wikimedia Commons, CC BY 2.0.</sub>
+<sub>Programming meme: “If it works, don't touch it”.</sub>
