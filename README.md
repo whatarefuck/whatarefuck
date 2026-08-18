@@ -16,7 +16,7 @@
 > Backend engineer на Python и Go. Последний год — AI-часть SaaS-продукта: LLM-интеграции, RAG, ML и ETL. Люблю доводить фичи до production и смотреть, что происходит с продуктом после релиза.
 
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Cat_keyboard_gerrit.jpg" width="420" alt="Cat keyboard Gerrit meme" />
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Use_JSON_server_kitty.jpg" width="420" alt="Use JSON server kitty meme" />
 </p>
 
 ## Stack
@@ -112,4 +112,4 @@ Backend для **Yappy** — социальной видеоплатформы: 
   <i>Production first. Metrics after release.</i>
 </p>
 
-<sub>Cat meme: “Cat keyboard gerrit”, Wikimedia Commons, CC BY 2.0.</sub>
+<sub>Cat meme: “Use JSON server kitty”, Wikimedia Commons, CC BY 2.0.</sub>
