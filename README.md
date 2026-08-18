@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <strong>🟢 Open to Work</strong> · Активно ищу работу в AI / Backend Engineering
+</p>
+
+<p align="center">
   <a href="https://t.me/backendmylove"><img src="https://img.shields.io/badge/Telegram-@backendmylove-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:bainazaryulamanov@gmail.com"><img src="https://img.shields.io/badge/Email-bainazaryulamanov%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/whatarefuck"><img src="https://img.shields.io/badge/GitHub-whatarefuck-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
