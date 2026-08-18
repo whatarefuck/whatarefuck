@@ -1,27 +1,21 @@
-# Байназар Юламанов
-
-### AI / Backend Engineer
-
-[![Telegram](https://img.shields.io/badge/Telegram-@backendmylove-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/backendmylove)
-[![Email](https://img.shields.io/badge/Email-bainazaryulamanov%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bainazaryulamanov@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-whatarefuck-181717?style=flat&logo=github&logoColor=white)](https://github.com/whatarefuck)
-[![Old GitHub](https://img.shields.io/badge/Old_GitHub-banzaika-181717?style=flat&logo=github&logoColor=white)](https://github.com/banzaika)
-
-> Backend на Python и Go. Последний год — AI-часть SaaS-продукта: LLM-интеграции, RAG, ML и ETL. Люблю доводить фичи до production и смотреть на метрики после релиза.
-
 <p align="center">
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/This_Is_Fine_(meme).png" width="420" alt="This is fine meme" />
+  <img src="https://raw.githubusercontent.com/whatarefuck/whatarefuck/main/assets/profile-header.svg" alt="AI / Backend Engineer — Bainazar Iulamanov" width="100%" />
 </p>
 
-## ⚡ Сейчас
+<p align="center">
+  <a href="https://t.me/backendmylove"><img src="https://img.shields.io/badge/Telegram-@backendmylove-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:bainazaryulamanov@gmail.com"><img src="https://img.shields.io/badge/Email-bainazaryulamanov%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/whatarefuck"><img src="https://img.shields.io/badge/GitHub-whatarefuck-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/banzaika"><img src="https://img.shields.io/badge/Old_GitHub-banzaika-181717?style=flat&logo=github&logoColor=white" alt="Old GitHub" /></a>
+</p>
 
-- 🤖 Строю AI/LLM-фичи вокруг **LangChain, LangGraph, RAG и LLM API**
-- 🐍 Пишу backend на **Python**, периодически — **Go**
-- 🧠 Работаю с ML: **scikit-learn, XGBoost, pandas, MLflow**
-- 🔄 Проектирую ETL и data pipelines на **Airflow**
-- 📈 Люблю production-метрики, observability и оптимизацию стоимости/latency
+> Backend engineer на Python и Go. Последний год — AI-часть SaaS-продукта: LLM-интеграции, RAG, ML и ETL. Люблю доводить фичи до production и смотреть, что происходит с продуктом после релиза.
 
-## 🛠️ Stack
+<p align="center">
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Cat_keyboard_gerrit.jpg" width="420" alt="Cat keyboard Gerrit meme" />
+</p>
+
+## Stack
 
 ### Languages & Backend
 
@@ -68,26 +62,50 @@
 
 `asyncio` · `aiohttp` · `Fiber` · `gRPC` · `Celery` · `Taskiq` · `pytest` · `Sphinx` · `Supabase` · `Dgraph` · `Jira` · `Confluence` · `ClickUp` · `Scrum`
 
-## 📊 What I’ve done
+## Experience
 
-- **Fetch.ai — AI Engineer:** ассистент на базе знаний с LangChain/LangGraph поднял точность ответов с **61% до 88%**, а **42%** обращений теперь закрываются без оператора.
-- Снизил стоимость LLM-запроса на **57%** и p95 latency с **9.4 до 3.1 сек.** за счёт semantic cache, model routing и context compression.
-- Обучил модели для lead scoring и churn prediction: **ROC-AUC 0.86**; trial → subscription вырос на **18%**, churn снизился на **9%**.
-- Перевёл feature store и vector index pipelines на Airflow: до **12 млн событий/сутки**, данные доходят до аналитики за **15 минут вместо суток**.
-- **Газпром-медиа:** развивал backend социальных, игровых и стриминговых механик; участвовал в платформе примерно из **120 микросервисов** на четырёх языках.
-- **ФБУН НИИ СБМ Роспотребнадзора:** сократил доставку данных анализов до аналитиков с **5 дней до 3 часов** и ускорил обнаружение backend-инцидентов на **60%**.
+### Fetch.ai — AI Engineer
+**Oct 2025 – Jul 2026 · 10 months · Remote**
 
-## 📫 Contacts
+AI-часть SaaS-продукта: LLM-интеграции, RAG, ML и data pipelines.
+
+- Сделал ассистента поверх базы знаний на **LangChain + LangGraph**: точность ответов выросла с **61% до 88%**, **42%** обращений закрываются без оператора.
+- Снизил стоимость LLM-запроса на **57%**, а p95 latency — с **9.4 до 3.1 сек.** за счёт semantic cache, model routing и context compression.
+- Обучил модели для **lead scoring** и **churn prediction**: ROC-AUC **0.86**; trial → subscription вырос на **18%**, churn снизился на **9%**.
+- Перевёл feature store и vector index pipelines на **Airflow**: до **12 млн событий в сутки**, данные доходят до аналитики за **15 минут вместо суток**.
+
+### Газпром-медиа холдинг — Python Developer
+**Jun 2024 – Aug 2025 · 1 год 3 месяца · Москва**
+
+Backend для **Yappy** — социальной видеоплатформы: рекомендации, социальные механики, стриминг, игровые механики и монетизация.
+
+- Переделал рекомендации друзей и механику приглашений: доступ к контактам **+35%**, регистрации **+11%**.
+- Развивал стриминг и директ: превью трансляций, видео и авторов, приглашения друзей; охват вырос на **330%**, TSS — на **75%**.
+- Сделал платное продвижение видео вместе с возвратами денег — **+10 млн ₽ в квартал**.
+- Помог запустить игровые механики, которыми пользовались до **8 000 игроков в неделю**.
+- Довёл до production внутреннюю платформу разработки для примерно **120 микросервисов** на четырёх языках.
+
+### ФБУН НИИ СБМ Роспотребнадзора — Python Developer
+**Apr 2023 – Mar 2024 · 12 месяцев · Москва**
+
+**Государственный агрегатор медицинских данных** — [sysbiomed.ru](https://sysbiomed.ru): сбор и обработка данных анализов от фарм-партнёров для аналитики.
+
+- Написал ETL для медицинских данных: доставка результатов до аналитиков сократилась с **5 дней до 3 часов**.
+- Поднял мониторинг backend и бизнес-метрик: инциденты стали находиться на **60% быстрее**, а чиниться — на **35% быстрее**.
+- Автоматизировал процесс согласования требований: срок сократился с **3 недель до 5 дней**.
+- Закрыл проект тестами, документацией в Sphinx и линтерами, чтобы безопаснее выпускать изменения и рефакторить.
+
+## Contacts
 
 - Telegram: [@backendmylove](https://t.me/backendmylove)
 - Email: [bainazaryulamanov@gmail.com](mailto:bainazaryulamanov@gmail.com)
-- Current GitHub: [github.com/whatarefuck](https://github.com/whatarefuck)
-- Old GitHub: [github.com/banzaika](https://github.com/banzaika)
+- GitHub: [whatarefuck](https://github.com/whatarefuck)
+- Old GitHub: [banzaika](https://github.com/banzaika)
 
 ---
 
 <p align="center">
-  <i>Production first. Metrics after release. And yes, sometimes the code is on fire.</i>
+  <i>Production first. Metrics after release.</i>
 </p>
 
-<sub>Meme image: “This Is Fine” — CC BY 4.0, via Wikimedia Commons.</sub>
+<sub>Cat meme: “Cat keyboard gerrit”, Wikimedia Commons, CC BY 2.0.</sub>
