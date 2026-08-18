@@ -1,3 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1650" height="950" viewBox="0 0 1650 950">
-<image width="1650" height="950" href="data:image/png;base64,PLACEHOLDER"/>
+<defs>
+  <pattern id="stripe" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+    <rect width="12" height="12" fill="#000"/>
+    <rect width="4" height="12" fill="#fff"/>
+  </pattern>
+</defs>
+<rect width="1650" height="950" fill="#000"/>
+<g fill="#fff" font-family="Arial, Helvetica, sans-serif" font-weight="800">
+  <text x="125" y="290" font-size="82">AI / Backend Engineer</text>
+  <text x="785" y="530" font-size="82">Bainazar Iulamanov</text>
+</g>
+<g>
+  <circle cx="530" cy="40" r="104" fill="url(#stripe)"/>
+  <circle cx="605" cy="40" r="104" fill="#fff"/>
+  <circle cx="1135" cy="290" r="91" fill="#fff"/>
+  <circle cx="1255" cy="290" r="91" fill="url(#stripe)"/>
+  <circle cx="650" cy="625" r="69" fill="#fff"/>
+  <circle cx="740" cy="625" r="69" fill="url(#stripe)"/>
+  <circle cx="-4" cy="790" r="69" fill="url(#stripe)"/>
+  <circle cx="30" cy="820" r="69" fill="#fff"/>
+  <circle cx="1510" cy="930" r="91" fill="url(#stripe)"/>
+  <circle cx="1590" cy="930" r="91" fill="#fff"/>
+</g>
 </svg>
