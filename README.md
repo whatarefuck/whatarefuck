@@ -68,16 +68,6 @@
 
 ## Experience
 
-### Fetch.ai — AI Engineer
-**Oct 2025 – Jul 2026 · 10 months · Remote**
-
-AI-часть SaaS-продукта: LLM-интеграции, RAG, ML и data pipelines.
-
-- Сделал ассистента поверх базы знаний на **LangChain + LangGraph**: точность ответов выросла с **61% до 88%**, **42%** обращений закрываются без оператора.
-- Снизил стоимость LLM-запроса на **57%**, а p95 latency — с **9.4 до 3.1 сек.** за счёт semantic cache, model routing и context compression.
-- Обучил модели для **lead scoring** и **churn prediction**: ROC-AUC **0.86**; trial → subscription вырос на **18%**, churn снизился на **9%**.
-- Перевёл feature store и vector index pipelines на **Airflow**: до **12 млн событий в сутки**, данные доходят до аналитики за **15 минут вместо суток**.
-
 ### Газпром-медиа холдинг — Python Developer
 **Jun 2024 – Aug 2025 · 1 год 3 месяца · Москва**
 
